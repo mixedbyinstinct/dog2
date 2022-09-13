@@ -1,12 +1,13 @@
 {
   "version": "1.0.0",
-  "scripts: {
+  "scripts": {
     "build": "webpack --config webpack.prod.js"
   },
   "dependencies": {
     "@babel/core": "7.x.x",
     "@babel/preset-env": "7.x.x",
     "@babel/preset-react": "7.x.x",
+    "animate.css": "^4.1.1",
     "axios": "^0.27.2",
     "babel-loader": "8.x.x",
     "css-loader": "2.1.x",
